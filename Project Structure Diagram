@@ -1,0 +1,28 @@
+my-react-app/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── Components/
+│   │   ├── Cart.jsx
+│   │   ├── Food.jsx
+│   │   ├── FoodItem.jsx
+│   │   ├── Grocery.jsx
+│   │   ├── ImageSlider.jsx
+│   │   ├── Landing.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Random.jsx
+│   │   ├── ResMenu.jsx
+│   │   ├── Restaurants.jsx
+│   │   ├── RestaurantsList.jsx
+│   │   ├── Search.jsx
+│   │   ├── ShowItemRestaurants.jsx
+│   │   ├── SkeletonOrShimmer.jsx
+│   │   ├── SubMenu.jsx
+│   ├── Utils/
+│   │   ├── cart.js
+│   │   ├── constant.js
+│   │   ├── searchSlice.js
+│   │   ├── Store.js
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
